@@ -87,8 +87,8 @@ No. There is no sign-in, no ads and no charge, same as classic.
 
 ---
 
-#### What about the old links and my old results?
-Preserving them comes first. We are working on keeping historic results and links reachable before the current API is retired, and we will not shut anything down until that is ready. We have not yet promised that every old result will look exactly the same in the new experience, and we will say plainly what has and has not moved.
+#### Do old links and my old results still work?
+No. After the switch, old links and results from the current site no longer open, and the new experience has no share links. Save any image or video you want to keep before **the weekend of November 14–15, 2026 (AEST)**.
 
 ---
 
@@ -98,7 +98,7 @@ We looked at Hugging Face and other hosted options while we were working out the
 ---
 
 #### Are you still exploring other options?
-Some things are still open, especially how well it runs on small devices and how we keep old results available. We would rather test in the open than claim it is finished.
+Some things are still open, especially how well it runs on small devices. We would rather test in the open than claim it is finished.
 
 ---
 

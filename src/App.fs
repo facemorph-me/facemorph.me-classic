@@ -352,7 +352,7 @@ let retirementNotice dismiss =
                                         str " We are building a new facemorph.me that runs in your browser."
                                     ]
                                     Html.p [
-                                        str "It is early, so classic facemorph.me stays as it is while you try it and tell us what breaks. The current API is still scheduled to retire on "
+                                        str "Try it now and tell us what breaks. facemorph.me switches over to it, and the current API retires, on "
                                         Html.span [
                                             prop.className "retirement-notice__date"
                                             prop.text apiTransitionDateLabel
@@ -414,7 +414,7 @@ let ThemedApp children =
     ]
 
 // Version the key when the notice changes so a new announcement is shown again.
-let retirementDismissalKey = "facemorph-retirement-dismissed-2026-11-01-v3-next-experience"
+let retirementDismissalKey = "facemorph-retirement-dismissed-2026-11-14-v4-next-experience"
 
 [<ReactComponent>]
 let RenderHome (state:State) (dispatch: Msg -> unit) =
